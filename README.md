@@ -54,7 +54,7 @@ This project demonstrates a prototype for intelligent traffic routing systems. I
 
 ## 👤 Author
 
-Your Name
+Tunir Raju Wabhitkar
 
 ---
 
